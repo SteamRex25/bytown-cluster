@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: web
-          image: bytown-web:1.0
+          image: bytown-web:1.1
           ports:
             - containerPort: 80
