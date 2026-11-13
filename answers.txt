@@ -1,0 +1,3 @@
+Q1: I stared the running copy because I ran the deployment that created it
+Q2: one reason to choose a docker swarm is because its simpler to use. K3s is more lightweight than a full kubernetes installation
+Q3: the page never went down because theres already a saved instance of the previous version of the site it could refer to for use already setup
